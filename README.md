@@ -8,7 +8,7 @@ This Python script generates geohashes within a given radius from a central poin
 - Visualizes geohashes using `matplotlib` and `shapely`.
 
 ## Installation
-### **Step 1: Clone the Repository**
+### **Clone the Repository**
 ```sh
 git clone https://github.com/your-username/geohash-radius-visualization.git
 cd geohash-radius-visualization
